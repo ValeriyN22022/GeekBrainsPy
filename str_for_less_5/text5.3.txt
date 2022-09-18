@@ -1,0 +1,12 @@
+Ivanov 12500
+Petrov 32100
+Gagarin 999999.99
+Babarin 11300
+Roizman 43562
+Roizman2 43562
+Roizman3 32100
+Roizman4 43562
+Roizman5 20000
+Roizman6 43562
+Roizman7 11300
+Roizman8 43562
